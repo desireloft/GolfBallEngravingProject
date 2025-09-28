@@ -8,6 +8,12 @@ This repository showcases my contribution to a final year group project titled *
 
 The Automated Golf Ball Engraving Cell is a sophisticated system designed to process golf balls through six sequential stations: Infeed, Washing, Hardness Testing, Sorting, Tubing, and Boxing. The project integrates advanced automation technologies, including PLCs, robotic arms, and an HMI, with a focus on precision, repeatability, and safety. My contributions included [specify your role, e.g., CAD modeling of station components, system integration, HMI design, or safety system implementation], aligning with my expertise in SolidWorks and manufacturing processes.
 
+### Video Demonstration
+
+The following video showcases the Automated Golf Ball Engraving Cell in action, highlighting the workflow across all six stations, robotic operations, and safety features.
+
+[Click here to view the Automated Golf Ball Engraving Cell video in a new tab](https://desireloft.github.io/GolfBallEngravingProject/golf_engraver.html)
+
 ### System Components
 
 The cell consists of six stations, each performing a specific function in the golf ball processing workflow:
@@ -71,12 +77,6 @@ The system incorporates comprehensive safety features to protect operators and e
 - **E-Stops**: Emergency stop buttons strategically placed for immediate shutdown.
 - **Light Curtains**: Detect unauthorized access to hazardous areas, triggering safety protocols.
 - **Guard Doors and Locks**: Secure access points with interlocked doors to restrict entry during operation.
-
-### Video Demonstration
-
-The following video showcases the Automated Golf Ball Engraving Cell in action, highlighting the workflow across all six stations, robotic operations, and safety features.
-
-[Click here to view the Automated Golf Ball Engraving Cell video in a new tab](https://desireloft.github.io/GolfBallEngravingProject/golf_engraver.html)
 
 ### Deliverables
 
